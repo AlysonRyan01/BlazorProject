@@ -8,15 +8,23 @@
     height: auto;
 }
 
-.espaco[b-43mg8mlpt9]
-{
+.espaco[b-43mg8mlpt9] {
     margin: 1em;
     justify-self: center;
     color: black;
     border-radius: 20px;
     padding: 2em;
-    width:70%;
+    width: 70%;
     height: fit-content;
     background-color: transparent;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    display: grid;
+    grid-template-rows: repeat(2, 1fr); /* Duas colunas iguais */
+    gap: 1em; /* Espaço entre as colunas */
+}
+
+.espaco > .coluna[b-43mg8mlpt9] {
+    display: flex;
+    flex-direction: column; /* Alinha os itens verticalmente */
+    gap: 1em; /* Espaço entre os itens na coluna */
 }
