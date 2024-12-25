@@ -8,4 +8,6 @@
 
 4- Adicionando a migração pos configuração;
 
-5- 
+5- Criando o Create de category;
+
+6- 

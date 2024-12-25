@@ -1,0 +1,28 @@
+@page "/categories"
+@using Microsoft.EntityFrameworkCore
+
+<h3>Categorias</h3>
+@inject ApplicationDbContext context
+
+@foreach (var category in ListModel)
+{
+    <div class="espaco">
+        <p><strong>Categoria:</strong> @category.Title</p>
+    </div>
+}
+
+@code {
+    public List<Category> ListModel { get; set; } = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            ListModel = await context.Categories.AsNoTracking().ToListAsync();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Ocorreu um erro na aplicacao");
+        }
+    }
+}

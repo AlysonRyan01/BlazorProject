@@ -131,6 +131,7 @@
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/BlazorProject.sourcelink.json
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/scopedcss/Components/Pages/Categories/Index.razor.rz.scp.css
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/scopedcss/bundle/BlazorProject.styles.css
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/scopedcss/projectbundle/BlazorProject.bundle.scp.css
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/d8hahz3eo5-khy4lop6wu.gz
@@ -178,8 +179,8 @@
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/dm78i1ga6c-h1s4sie4z3.gz
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/6lgltnwdd8-63fj8s7r0e.gz
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/82po8li1my-0j3bgjxly4.gz
-/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/rk1qzw4s2y-u8eq9w4s9f.gz
-/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/482sugs1du-u8eq9w4s9f.gz
+/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/rk1qzw4s2y-jx2zpygl5t.gz
+/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/compressed/482sugs1du-jx2zpygl5t.gz
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/staticwebassets.build.json
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/staticwebassets.development.json
 /Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorProject/obj/Debug/net9.0/staticwebassets.build.endpoints.json
